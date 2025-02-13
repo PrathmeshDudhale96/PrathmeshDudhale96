@@ -49,11 +49,17 @@
 
 ## 🛠 Tools & Platforms  
 <p align="center">
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  
   <img src="https://img.shields.io/badge/Data%20Science-003B57?style=for-the-badge&logo=databricks&logoColor=white">
+  
 </p>
 
 ---
@@ -76,7 +82,7 @@
 
 ### 📍 Stay in Touch  
 
-Feel free to reach out via email or connect with me on LinkedIn and GitHub. Let's collaborate and build something impactful together!  
+💙 _Let's build something amazing together!_ 🚀  
 
 ---
 
