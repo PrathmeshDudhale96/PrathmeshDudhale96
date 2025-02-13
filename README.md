@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+I'm+Prathmesh+Dudhale+🚀;Welcome+to+my+GitHub!&center=true&size=30&color=15F5BA&font=bold">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Prathmesh+Dudhale;Welcome+to+my+GitHub!&center=true&size=30&color=15F5BA&font=bold">
 </h1>
 
 <div align="center">
@@ -18,13 +18,9 @@
 📚 Constantly upgrading my skills and staying ahead in the tech world  
 🤝 Open to collaborations on **ML, AI, Web Development, and Data Science projects**  
 
-![Rainbow Line](https://i.imgur.com/4z7r3DM.png)
-
 ---
 
 ## 🛠️ Tech Stack  
-
-![Rainbow Line](https://i.imgur.com/4z7r3DM.png)
 
 ### 💻 Languages  
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)  
@@ -39,8 +35,6 @@
 
 ## 🔧 Frameworks & Libraries  
 
-![Rainbow Line](https://i.imgur.com/4z7r3DM.png)
-
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)  
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)  
@@ -52,8 +46,6 @@
 
 ## 🛠 Tools & Platforms  
 
-![Rainbow Line](https://i.imgur.com/4z7r3DM.png)
-
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter)  
@@ -63,8 +55,6 @@
 ---
 
 ## 📬 Let's Connect!  
-
-
 
 <div align="center">  
   <a href="mailto:prathmesh.dudhale22@pccoepune.org">
