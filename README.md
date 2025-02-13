@@ -1,79 +1,40 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Prathmesh+Dudhale;Welcome+to+my+GitHub!&center=true&size=30&color=15F5BA&font=bold">
-</h1>
+<h1 align="center">👋 Hey there! I'm Prathmesh Dudhale</h1>
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Developer GIF" width="400" />
-</div>
-
----
-
-## 🚀 About Me  
-
-> *"Embracing challenges, learning every day, and coding my way to success! 💡"*
-
-👨‍💻 **3rd-year Computer Engineering student** at **PCCOE**  
-🚀 Passionate about **Tech, Innovation, and Coding**  
-🧠 Exploring **Machine Learning, Data Analytics, and Full-Stack Development**  
-📚 Constantly upgrading my skills and staying ahead in the tech world  
-🤝 Open to collaborations on **ML, AI, Web Development, and Data Science projects**  
+<p align="center">
+  🚀 <b>AI/ML | Python | Data Science Enthusiast</b> <br>
+  🎓 <b>Pursuing B.Tech in Computer Engineering</b> <br>
+  🤝 <b>Open to Collaborate on Exciting Projects</b> <br>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)  
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)  
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)  
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)  
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)  
+### 📫 Connect with Me:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmesh.dudhale22@pccoepune.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmeshdudhale/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrathmeshDudhale96)
 
 ---
 
-## 🔧 Frameworks & Libraries  
-
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)  
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-000000?style=flat&logo=scikit-learn)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat&logo=streamlit)  
-![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy)  
+### 🔥 About Me:
+- 💻 Passionate about AI, ML, and Data Science.
+- 📊 Love working with Python, Machine Learning, and Data Visualization.
+- 🌱 Always learning and exploring new technologies.
 
 ---
 
-## 🛠 Tools & Platforms  
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter)  
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)  
-![Data Science](https://img.shields.io/badge/-Data%20Science-000000?style=flat&logo=databricks)  
-
----
-
-## 📬 Let's Connect!  
-
-<div align="center">  
-  <a href="mailto:prathmesh.dudhale22@pccoepune.org">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>  
-  <a href="https://www.linkedin.com/in/prathmeshdudhale/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>  
-  <a href="https://github.com/Prathmeshdudhale">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>  
-</div>
+### 🚀 Skills & Tools:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Science-003B57?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</p>
 
 ---
 
-### 📍 Stay in Touch  
-
-Feel free to reach out via email or connect with me on LinkedIn and GitHub. Let's collaborate and build something impactful together!  
+### ⚡ Fun Fact:
+🎯 I’m from **Latur** and always excited to learn new things! 😎
 
 ---
 
-<h3 align="center">Thank you for visiting! 😊</h3>
+💙 _Let's build something amazing together!_ 🚀  
